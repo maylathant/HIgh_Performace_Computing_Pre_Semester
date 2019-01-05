@@ -10,7 +10,7 @@
  #include <stdlib.h>
 
 #define SIZE 16
-#define SIZE 15
+//#define SIZE 15
  #define UP    0
  #define DOWN  1
  #define LEFT  2
